@@ -1,5 +1,4 @@
 
-import { BackgroundColor } from 'jest-matcher-utils/node_modules/chalk';
 import React, { Component } from 'react';
 
 import { View, Text, Image, Button, StyleSheet, Pressable, TextInput } from 'react-native';
