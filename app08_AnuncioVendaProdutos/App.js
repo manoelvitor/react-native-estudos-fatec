@@ -6,9 +6,9 @@ class App extends Component {
     super(props)
     this.state = {
       feed: [
-        { id: 1, name: 'Notebook HP Probook i5 3', price: "1200,00" , img: 'https://www.91-img.com/pictures/laptops/hp/hp-4540s-b8z31pa-core-i5-3rd-gen-8-gb-500-gb-dos-6383-large-1.jpg' },
-        { id: 2, name: 'Tablet Amazon Fire 7', price: "700,00", img: 'https://cf.shopee.com.br/file/a8258f580b6082a1370714b79565b389' },
-        { id: 3, name: 'Iphone 6s 32g', price: "980,00", img: 'https://http2.mlstatic.com/D_NQ_NP_817644-MLA43712584146_102020-O.jpg' },
+        { id: 1, name: 'Notebook HP Probook i5 3', price: "1200,00"  },
+        { id: 2, name: 'Tablet Amazon Fire 7', price: "700,00" },
+        { id: 3, name: 'Iphone 6s 32g', price: "980,00"},
 
       ]
     }
